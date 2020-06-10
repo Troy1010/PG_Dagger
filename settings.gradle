@@ -1,0 +1,2 @@
+rootProject.name='PG_Dagger'
+include ':app'
